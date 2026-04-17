@@ -1,7 +1,7 @@
 <br>
 <p align="center">
   <h1 align="center"><strong>GeoPredict: Leveraging Predictive Kinematics</br> and 3D Gaussian Geometry</br> for Precise VLA Manipulation</strong></h1>
-  <h3 align="center">🔥 CVPR 2026 <span style="color:red;">Highlight</span> 🔥</h3>
+  <h3 align="center">🔥 CVPR 2026 <img src="https://img.shields.io/badge/Highlight-red" alt="Highlight"> 🔥</h3>
   <p align="center">
     <a href="https://scholar.google.com/citations?user=sGDjHRUAAAAJ&hl=en" target="_blank">Jingjing Qian</a><sup>1</sup>&emsp;
     <a href="https://github.com/h161020716" target="_blank">Boyao Han</a><sup>2</sup>&emsp;
