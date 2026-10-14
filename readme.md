@@ -20,7 +20,7 @@
 <div id="top" align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2512.16811-blue)](https://arxiv.org/abs/2512.16811)
-[![](https://img.shields.io/badge/Paper-%F0%9F%93%96-blue)](https://arxiv.org/pdf/2512.16811)
+[![](https://img.shields.io/badge/Paper-%F0%9F%93%96-blue)](https://openaccess.thecvf.com/content/CVPR2026/papers/Qian_GeoPredict_Leveraging_Predictive_Kinematics_and_3D_Gaussian_Geometry_for_Precise_CVPR_2026_paper.pdf)
 [![](https://img.shields.io/badge/Project-%F0%9F%9A%80-blue)](https://jingjingqian75.github.io/GeoPredict-Page/)
 
 </div>
@@ -28,6 +28,7 @@
 ---
 
 ## 🔥 News
+- **[2026-07]** We released the training code and dataset for **GeoPredict**.
 - **[2026-05]** We released the inference code and checkpoints for **GeoPredict**.
 - **[2026-02]** Our paper was accepted by CVPR2026 as a **Highlight** ! 🥳
 - **[2025-12]** We released the [paper](https://arxiv.org/pdf/2512.16811) and the [project page](https://jingjingqian75.github.io/GeoPredict-Page/) for **GeoPredict**.
@@ -51,14 +52,16 @@ GeoPredict addresses these limitations with:
 ## 📝 TODO
 - [x] Release paper and project page.
 - [x] Release inference code and checkpoints.
-- [ ] Release training code. Expected in June 2026.
-- [ ] Support more open-source VLA models, such as Pi0.5 and OpenVLA. Expected in July 2026.
+- [x] Release training code and dataset.
 
 ---
 
 ## 📚 Getting Started
 
 1. [Environment Setup & Inference](docs/infer.md)
+2. [Training on RoboCasa](docs/train.md)
+
+The training dataset is available on [ModelScope](https://modelscope.cn/datasets/JingjingQian/GeoPredict-Robocasa).
 
 ---
 
